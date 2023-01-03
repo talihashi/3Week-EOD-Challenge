@@ -1,0 +1,32 @@
+body {
+    background-image: url(./images/HD-wallpaper-anime-princess-mononoke-ashitaka-princess-mononoke.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(14, 85, 85);
+    position: sticky;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(232, 47, 47);
+}
+
+p {
+    color: rgb(219, 46, 101);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#prince {
+    width: 400px;
+    height: 400px;
+    margin-left: 5px;
+}
+
+#princess {
+    float: left;
+}
+
+#lady {
+    float: right;
+}
